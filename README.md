@@ -3,6 +3,10 @@
 
 ## 2018
 
+### [#3](https://www.facebook.com/events/2139394366377818/) November 15, 2018
+- [Uvod u primjenu mikrokontrolera](https://github.com/zvrhovski/mikrokontroleri)
+by [Zoran Vrhovski](https://www.facebook.com/vrhovski.zoran)
+
 ### [#2](https://www.facebook.com/events/1777565945673928/) October 16, 2018
 - [Skriptni programski jezici](https://github.com/HCicak/Skriptni-programski-jezici)
 by [Hrvoje Čičak](https://www.facebook.com/hrvoje.cicak)
