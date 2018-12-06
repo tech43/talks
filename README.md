@@ -3,6 +3,10 @@
 
 ## 2018
 
+### [#4](https://www.facebook.com/events/1526735060763547/) December 4, 2018
+- Pohrana diploma na blockchain
+by [Ivan Sekovanić](https://www.facebook.com/ivan.sekovanic.1)
+
 ### [#3](https://www.facebook.com/events/2139394366377818/) November 15, 2018
 - [Uvod u primjenu mikrokontrolera](https://github.com/zvrhovski/mikrokontroleri)
 by [Zoran Vrhovski](https://www.facebook.com/vrhovski.zoran)
