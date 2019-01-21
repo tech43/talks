@@ -9,7 +9,7 @@ by [Darko Crha]( https://www.linkedin.com/in/darko-crha-77464015/)
 ## 2018
 
 ### [#4](https://www.facebook.com/events/1526735060763547/) December 4, 2018
-- Pohrana diploma na blockchain
+- [Pohrana diploma na blockchain]((pohrana-diploma-na-blockchain.pdf)
 by [Ivan Sekovanić](https://www.facebook.com/ivan.sekovanic.1)
 
 ### [#3](https://www.facebook.com/events/2139394366377818/) November 15, 2018
