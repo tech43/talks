@@ -2,9 +2,14 @@
 
 ## 2019
 
+### [#6](https://www.facebook.com/events/866803760317598/) February 26, 2019
+- [QR kodovi - sve što se oduvijek željeli znati o njima](qr-kodovi.pdf)
+by [Nenad Kovačević](https://www.linkedin.com/in/nenadkovacevic/)
+
+
 ### [#5](https://www.facebook.com/events/398828034228133/) January 17, 2019
 - [Zašto LED rasvjeta?](zasto-led-rasvjeta.pdf)
-by [Darko Crha]( https://www.linkedin.com/in/darko-crha-77464015/)
+by [Darko Crha](https://www.linkedin.com/in/darko-crha-77464015/)
 
 ## 2018
 
