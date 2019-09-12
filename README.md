@@ -6,10 +6,13 @@
 - [Moderni frontend development](nebojsa_pongracic_moderni_frontend_development.pdf)
 by [Nebojša Pongračić](https://www.facebook.com/nebojsa.pongracic)
 
+### [#7](https://www.facebook.com/events/404454590365632/) March 28, 2019
+- DIY Smart Home
+by [Krunoslav Husak](https://www.facebook.com/krunoslav.husak.9)
+
 ### [#6](https://www.facebook.com/events/866803760317598/) February 26, 2019
 - [QR kodovi - sve što se oduvijek željeli znati o njima](qr-kodovi.pdf)
 by [Nenad Kovačević](https://www.linkedin.com/in/nenadkovacevic/)
-
 
 ### [#5](https://www.facebook.com/events/398828034228133/) January 17, 2019
 - [Zašto LED rasvjeta?](zasto-led-rasvjeta.pdf)
