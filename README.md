@@ -2,6 +2,10 @@
 
 ## 2019
 
+### [#8](https://www.facebook.com/events/1126701154203710/) April 25, 2019
+- [Moderni frontend development](nebojsa_pongracic_moderni_frontend_development.pdf)
+by [Nebojša Pongračić](https://www.facebook.com/nebojsa.pongracic)
+
 ### [#6](https://www.facebook.com/events/866803760317598/) February 26, 2019
 - [QR kodovi - sve što se oduvijek željeli znati o njima](qr-kodovi.pdf)
 by [Nenad Kovačević](https://www.linkedin.com/in/nenadkovacevic/)
