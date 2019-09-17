@@ -11,7 +11,7 @@ by Darko Turković
 by [Nebojša Pongračić](https://www.facebook.com/nebojsa.pongracic)
 
 ### [#7](https://www.facebook.com/events/404454590365632/) March 28, 2019
-- DIY Smart Home
+- [DIY Smart Home](meetup_smart_home.pdf)
 by [Krunoslav Husak](https://www.facebook.com/krunoslav.husak.9)
 
 ### [#6](https://www.facebook.com/events/866803760317598/) February 26, 2019
