@@ -2,6 +2,18 @@
 
 ## 2019
 
+### [#12](https://web.facebook.com/events/784549568660873/) November 22, 2019
+- [Design 101: UX/UI](design-101.pdf)
+ by [Dino Lalić](https://web.facebook.com/dino.lalic.44)
+
+### [#11](https://web.facebook.com/events/2483976428596902/) October 29, 2019
+- [Geografske karte u JavaScript-u](geografske-karte.pdf)
+ by [Tomislav Adamović](https://web.facebook.com/tomislav.adamovic)
+
+### [#10](https://web.facebook.com/events/2567950529936024/) September 26, 2019
+- [Virtualna stvarnost](virtualna-stvarnost.pdf)
+ by [Ante Javor](https://www.facebook.com/ante.javor)
+
 ### [#9](https://www.facebook.com/events/378512313007081/) May 23, 2019
 - [Rekonstrukcija Pozdrava Suncu](pozdrav-suncu.pdf)
 by Darko Turković
