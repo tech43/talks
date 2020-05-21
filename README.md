@@ -2,9 +2,13 @@
 
 ## 2020
 
-### [#14](https://www.facebook.com/events/167418154675491/) May 21, 2020
+### [#14](https://www.facebook.com/events/589000978347510/) May 21, 2020
 - [A Dive Into React](14-A-dive-into-React.pdf)
  by [Tomislav Leljak](https://www.linkedin.com/in/leljak/)
+
+### [#13](https://www.facebook.com/events/167418154675491/) February 4, 2020
+- [AMD Hackintosh](13-Hackintosh.pdf)
+ by [Ivan Kranjec](https://gitlab.com/ikranjec)
 
 ## 2019
 
