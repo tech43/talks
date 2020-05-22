@@ -4,6 +4,7 @@
 
 ### [#14](https://www.facebook.com/events/589000978347510/) May 21, 2020
 - [A Dive Into React](14-A-dive-into-React.pdf)
+([video](https://www.youtube.com/watch?v=cK-Rlm3X9KA))
  by [Tomislav Leljak](https://www.linkedin.com/in/leljak/)
 
 ### [#13](https://www.facebook.com/events/167418154675491/) February 4, 2020
